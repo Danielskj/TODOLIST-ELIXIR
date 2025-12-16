@@ -1,18 +1,19 @@
-# ElixirTodoList
+Aluno: Carlos Daniel dos Santos Silva
+Link do tutorial seguido: https://profsergiocosta.notion.site/Como-Criar-um-App-Todo-List-com-Elixir-e-LiveView-do-Zero-2a8cce97509380eba53fc82bbeb08435
 
-To start your Phoenix server:
+Esse projeto teve como foco a criação de um app TodoList , utilizando a arquitetura incremental.
+As principais tecnologias utilizadas no projeto foram: Phoenix, LiveView, Ecto e DaisyUI
 
-* Run `mix setup` to install and setup dependencies
-* Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+Para rodar o projeto:
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
-## Learn more
 
-* Official website: https://www.phoenixframework.org/
-* Guides: https://hexdocs.pm/phoenix/overview.html
-* Docs: https://hexdocs.pm/phoenix
-* Forum: https://elixirforum.com/c/phoenix-forum
-* Source: https://github.com/phoenixframework/phoenix
+1) Primeiro você deve executar o comando 'mix setup' para instalar e configurar as dependências.
+2) Depois disso, inicie o endpoint do Phoenix com mix phx.serverou dentro do IEx com iex -S mix phx.server
+3) Por último, acesse o  localhost:4000 em qualquer navegador para visualização da aplicação
+
+
+
+
+
